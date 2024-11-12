@@ -1,0 +1,1 @@
+import{j as o}from"./index-DI8Lomad.js";import{a as r}from"./index-D6AXLMh1.js";import"./react-BbaTowL1.js";import"./firebase-DTxrvWAw.js";import"./redux-BaaShjVO.js";const e=()=>o.jsxs("div",{className:"container not-found",children:[o.jsx(r,{}),o.jsx("h1",{children:"Page Not Found"})]});export{e as default};
